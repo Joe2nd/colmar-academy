@@ -197,6 +197,26 @@ nav {
   display: block;
 }
 
+header a {
+  text-decoration: none;
+  color: black;
+}
+
+#introduction a {
+  text-decoration: none;
+  color: white;
+}
+
+#information a {
+  text-decoration: none;
+  color: #2E53E0;
+}
+
+footer a {
+  text-decoration: none;
+  color: black;
+}
+
 .desktop ul li {
   display: inline-block;
 	font-size: 1.1rem;
