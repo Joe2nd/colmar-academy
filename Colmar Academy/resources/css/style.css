@@ -10,6 +10,7 @@ html {
 body {
   display: block;
   margin: 0;
+  color: #4A4A4A;
 }
 
 div {
@@ -146,7 +147,7 @@ img {
 }
 
 .button:hover, .link:hover {
-  color: #a9a9a9;
+  color: white;
 }
 
 .link {
