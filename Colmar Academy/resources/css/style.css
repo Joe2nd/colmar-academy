@@ -142,7 +142,7 @@ img {
 
 #introduction,
 #courses {
-  background-color: #FFF8F6;
+  background-color: #D8D8D8;
 }
 
 .button:hover, .link:hover {
@@ -246,7 +246,7 @@ footer a {
 }
 
 .button {
-  background-color: #4E6778;
+  background-color: #4A4A4A;
   border-radius: 0.25rem;
   color: #FFF;
   margin-top: 1.5rem;
